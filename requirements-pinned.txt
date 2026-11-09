@@ -1,0 +1,18 @@
+# ORIGINAL academic specification pins (from the project brief).
+#
+# These exact versions were published in mid-2024 and target Python 3.10–3.12.
+# They do NOT have wheels for Python 3.13/3.14 (e.g. numpy 1.26.4, pydantic-core
+# 2.20.x fall back to source builds), so do not use them on a 3.14 interpreter.
+#
+# For a working install use `requirements.txt` (verified on Python 3.14).
+# Kept here for reproducibility of the original spec.
+langchain==0.3.0
+langchain-openai==0.2.0
+langgraph==0.2.20
+chromadb==0.5.5
+pypdf==4.3.1
+streamlit==1.38.0
+pydantic==2.8.2
+python-dotenv==1.0.1
+requests==2.32.3
+pytest==8.3.2

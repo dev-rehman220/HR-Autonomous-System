@@ -1,0 +1,22 @@
+# Runtime + test dependencies for TalentAgent Core.
+#
+# Verified on Python 3.14 (Linux). These are current releases, so the same set
+# also installs on Python 3.10-3.13.
+#
+# NOTE: the project brief pinned mid-2024 releases (langchain 0.3.0, chromadb
+# 0.5.5, pydantic 2.8.2, ...) which have no wheels for Python 3.13/3.14. Those
+# original pins are preserved verbatim in `requirements-pinned.txt`.
+langchain==1.4.5
+langchain-openai==1.7.1
+langgraph==1.2.15
+chromadb==1.5.9
+pypdf==6.20.1
+streamlit==1.65.0
+pydantic==2.14.1
+python-dotenv==1.2.4
+requests==2.34.2
+python-docx==1.2.0
+striprtf==0.0.33
+mcp==2.3.0
+pytest==9.1.1
+pytest-cov==7.1.0

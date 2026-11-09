@@ -1,0 +1,24 @@
+From: Omar Ali <omar.ali@example.com>
+To: hiring@ourteam.example
+Subject: Job application - ML Engineer
+Message-ID: <d4befa2@mail.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2813758611630746373=="
+
+--===============2813758611630746373==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Attached is my resume for the ML Engineer role.
+
+--===============2813758611630746373==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="omar_ali_cv.txt"
+MIME-Version: 1.0
+
+T01BUiBBTEkKb21hci5hbGlAZXhhbXBsZS5jb20KZ2l0aHViLmNvbS9vbWFyYWxpCgpNYWNoaW5l
+IGxlYXJuaW5nIGVuZ2luZWVyLCA0IHllYXJzIGV4cGVyaWVuY2UuIFNraWxsczogUHl0aG9uLCBQ
+eVRvcmNoLCBMYW5nQ2hhaW4sIFJBRywgTExNLCBEb2NrZXIu
+
+--===============2813758611630746373==--

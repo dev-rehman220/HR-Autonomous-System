@@ -1,0 +1,36 @@
+# Environment
+.env
+venv/
+.venv/
+env/
+credentials.json
+token.json
+.gmail-mcp/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Vector store (regenerate with scripts/seed_chroma.py)
+chroma_db/
+
+# Applicant roster (SQLite)
+data/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# Outbound drafts
+outbox/
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
